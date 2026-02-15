@@ -2,11 +2,9 @@ venv/
 __pycache__/
 data/
 datasets/
-models/
 checkpoints/
 *.h5
 *.pt
 *.pth
-*.csv
 *.zip
 
